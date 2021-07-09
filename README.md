@@ -1,18 +1,21 @@
-### Hi there 👋
+## Seja bem-vindo ao meu perfil! 👋
 
-<!--
-**vrsmarcos00/vrsmarcos00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+
+Me chamo Marcos Sá, tenho 21 anos de idade e estudante da UCB(Universidade Católica de Brasília) onde estudo a disciplina de Análise e desenvolvimento de Sistemas, entrei no mundo da programação a cerca de 18 meses, desde meu início neste cenário da programação procuro sempre estar me aperfeiçoando cade vez mais para sempre poder entregar o que eu tenho de melhor!
+
+### Conhecimentos
+- #### HTML (intermediário)
+- #### CSS (intermediário)           
+- #### JavaScript (Básico)
+- #### Kotlin (Básico)
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ![Marcos Sá github stats](https://github-readme-stats.vercel.app/api?username=vrsmarcos00&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
+
