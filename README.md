@@ -3,7 +3,7 @@
 <!--
 **vrsmarcos00/vrsmarcos00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Marcos Sá github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
+![Marcos Sá github stats](https://github-readme-stats.vercel.app/api?username=vrsmarcos00&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
