@@ -6,9 +6,9 @@ Me chamo Marcos Sá, tenho 21 anos de idade e estudante da UCB(Universidade Cat�
 
 ### Conhecimentos
 - #### HTML (Avançado)
-- #### CSS (intermediário)           
+- #### CSS (Intermediário)           
 - #### JavaScript (Intermediário)
-- #### Kotlin (Básico)
+- #### Java (Intermediário)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
