@@ -8,7 +8,7 @@
    
 <h2 align="center">Hobbies 🧑‍💻 <h2/>
 <p align="justify">
-   Desde criança um fanático por tecnologias, ao conhecer a area de programação foi amor a primeira e ao primeiro código, viciado em estudos pois acho que o conhecimento é a coisa mais preciosa que podemos acumular, aos finais de semana gosto de jogar futebol e conversar com amigos.
+   Desde criança um fanático por tecnologias, ao conhecer a area de programação foi amor a primeira vista e ao primeiro código, viciado em estudos pois acho que o conhecimento é a coisa mais preciosa que podemos acumular, aos finais de semana gosto de jogar futebol e conversar com amigos.
 <p>
   
 <h2 align="center">Tecnologias aprendidas 👩‍💻<h2/>
