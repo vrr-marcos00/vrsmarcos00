@@ -3,7 +3,7 @@
  <h2 align="center">Sobre mim 🧒<h2/>
  
 <p align="justify">
-    Me chamo MARCOS VINICIUS RODRIGUES DE SÁ, tenho 21 anos, sou formado desde 2019 em Recursos humanos pela faculdade Universidade do Planalto(UNIPLAN), atualmente curso Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília(UCB) cujo térmo se encontra previsto para 06/2022.
+    Me chamo MARCOS VINICIUS RODRIGUES DE SÁ, tenho 21 anos, sou formado desde 2019 em Recursos humanos pela faculdade Universidade do Planalto(UNIPLAN), atualmente curso Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília(UCB) cujo término se encontra previsto para 06/2022.
 <p/>
    
 <h2 align="center">Hobbies 🧑‍💻 <h2/>
