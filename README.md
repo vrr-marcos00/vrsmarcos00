@@ -23,8 +23,8 @@
  <p/>
   
  <p align="center">
-<a href="https://github.com/vrsmarcos00/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcos Sá" src="https://github-readme-streak-stats.herokuapp.com/?user=vrsmarcos00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<a href="https://github.com/vrr-marcos00/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcos Sá" src="https://github-readme-streak-stats.herokuapp.com/?user=vrr-marcos00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
