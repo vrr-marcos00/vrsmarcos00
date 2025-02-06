@@ -1,10 +1,4 @@
 <h2 align="center">Sejam Bem-Vindos 👋 <h2/>
-  
- <h2 align="center">Sobre mim 🧒<h2/>
- 
-<p align="justify">
-    Me chamo MARCOS VINICIUS RODRIGUES DE SÁ, tenho 22 anos, sou formado desde 2019 em Recursos humanos pela faculdade Universidade do Planalto(UNIPLAN), atualmente curso Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília(UCB) cujo término se encontra previsto para 06/2022. Atualmente trabalho com Software developer no Mercado Pago, onde atuo na área de Frontend com React, scss, webPack, html, javascript e além de outras tecnologias. 
-<p/>
    
 <h2 align="center">Linkedin 🧒<h2/>
 <div align="center">
